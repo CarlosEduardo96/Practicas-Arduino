@@ -1,0 +1,5 @@
+Usar la libreria v1.2.3
+DHT de ardruit.
+
+Exportar la libredira DHT.h
+En la carpeta DHT_sensor_library.
