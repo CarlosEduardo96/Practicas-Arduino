@@ -1,1 +1,1 @@
-# Practica de encendido usnado una aplicacion de escritorio.
+# Practica de encendido de un led usando una aplicacion de escritorio.
