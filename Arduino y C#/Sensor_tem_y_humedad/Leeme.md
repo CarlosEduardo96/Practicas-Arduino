@@ -1,5 +1,5 @@
 # Implotante.
-Es importante usar el proyecto previamente desarrollado ["Calor y Humedad DHT11"] https://github.com/CarlosEduardo96/Practicas-Arduino/tree/master/Sensor%20de%20Calor%20y%20Humedad%20DHT11 dentro
+Es importante usar el proyecto previamente desarrollado [Calor y Humedad DHT11] https://github.com/CarlosEduardo96/Practicas-Arduino/tree/master/Sensor%20de%20Calor%20y%20Humedad%20DHT11 dentro
 de este repositorio.
 
 # Conexion via Bluetooth.
