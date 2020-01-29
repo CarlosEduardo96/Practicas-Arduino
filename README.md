@@ -9,6 +9,5 @@ Se pretende desarrollar pequeñas practicas usando placas arduino para su uso di
 Puedes contactarme atraves de:
 
 - [GitHub](https://github.com/CarlosEduardo96)
-- [Gmail]() otacom96@gmail.com
 
 ## ;)
