@@ -1,5 +1,5 @@
 # Implotante.
-Es importante usar el proyecto Sensor de "Calor y Humedad DHT11" dentro
+Es importante usar el proyecto previamente desarrollada "Calor y Humedad DHT11" dentro
 de este repositorio.
 
 # Conexion via Bluetooth.
