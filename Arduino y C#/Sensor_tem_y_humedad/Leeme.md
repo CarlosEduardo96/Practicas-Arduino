@@ -11,8 +11,5 @@ En este tipo de casos solo se conecta el dispositivo a la placa.
 # Informacion
 Puedes contactarme atraves de:
 
-- **[GitHub](https://github.com/CarlosEduardo96)
-- **[Facebook](https://www.facebook.com/carloseduardo.rodriguezcruz.9)
-
-
-
+- [GitHub](https://github.com/CarlosEduardo96)
+- [Facebook](https://www.facebook.com/carloseduardo.rodriguezcruz.9)
