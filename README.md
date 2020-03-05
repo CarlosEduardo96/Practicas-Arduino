@@ -11,7 +11,9 @@ Enciende y apaga un led desde la aplicacion previamente desarrollada en C#.
 Se desarrolla una aplicacion que permita capturar los datos de tenperatura y humedad en el ambiente en tiempo real.
 Sensor utilizado el modelo DHT11
 
-# Practicas usando solo la ´placa arduino.
+# Practicas usando solo la placa arduino.
+## Contenido
+## Sensor de Calor y Humedad DHT11
 Captura la  temperatura y humedad en el ambiente usando el sensor DHT11
 
 # Inteligencia Artificial
